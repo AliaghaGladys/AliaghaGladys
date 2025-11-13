@@ -1,15 +1,15 @@
 # Hi, I'm Gladys Aliagha  
 
-### 💡 Data Analyst | Business Intelligence Specialist | Power BI • Tableau • SQL . Data Cleaning 
+### Data Analyst | Business Intelligence Specialist | Power BI • Tableau • SQL • Python  
 
 I’m a curious, analytical, and results-driven Data Analyst with a passion for uncovering the stories behind data.  
 I translate raw datasets into clear insight, predictive trends, and interactive dashboards that empower leaders to make smarter, faster decisions.
 
-With hands-on experience in **Power BI, Tableau, SQL,and Excel**, I’ve helped organizations optimize performance, improve customer experience, and adopt data-driven strategies.
+With hands-on experience in **Power BI, Tableau, SQL, and Excel**, I’ve helped organizations optimize performance, improve customer experience, and adopt data-driven strategies.
 
 ---
 
-# Featured Data Analytics Projects  
+# 🚀 Featured Data Analytics Projects  
 
 ## 📊 1. NovaMed Solutions – Sales & Customer Analysis (Power BI Capstone)
 **Tools:** Power BI, Power Query, DAX, Excel  
@@ -23,7 +23,7 @@ With hands-on experience in **Power BI, Tableau, SQL,and Excel**, I’ve helped 
 - Built customer segmentation for high/medium/low-value groups  
 - Provided insights for increasing sales efficiency and customer retention  
 
-📁 **Repository:** Coming Soon  
+📁 **Repository:** [NovaMed-Sales-Customer-Analysis](https://github.com/AliaghaGladys/NovaMed-Sales-Customer-Analysis)  
 🛠 **Skills:** Data modelling, DAX measures, visualization, KPI design  
 
 ---
@@ -38,7 +38,7 @@ With hands-on experience in **Power BI, Tableau, SQL,and Excel**, I’ve helped 
 - Heatmap for day-of-week and hour-of-day engagement  
 - Funnel showing user drop-offs and traffic source performance  
 
-📁 **Repository:** Coming Soon  
+📁 **Repository:** [Tableau-User-Engagement-Dashboard](https://github.com/AliaghaGladys/Tableau-User-Engagement-Dashboard)  
 🛠 **Skills:** Tableau storytelling, UX design, dashboard interactivity  
 
 ---
@@ -52,12 +52,12 @@ With hands-on experience in **Power BI, Tableau, SQL,and Excel**, I’ve helped 
 - Created pivot-based visuals with slicers  
 - Identified best/worst-performing channels and devices  
 
-📁 **Repository:** Coming Soon  
+📁 **Repository:** [Excel-KPI-User-Engagement-Dashboard](https://github.com/AliaghaGladys/Excel-KPI-User-Engagement-Dashboard)  
 🛠 **Skills:** KPI design, trend analysis, Excel automation  
 
 ---
 
-##  4. Employee Retention & Salary Analysis (SQL Project)  
+## 🧠 4. Employee Retention & Salary Analysis (SQL Project)  
 **Tools:** MySQL, Joins, Window Functions, CTEs  
 **Objective:** Identify patterns in employee retention, performance, and salary distribution.
 
@@ -67,7 +67,7 @@ With hands-on experience in **Power BI, Tableau, SQL,and Excel**, I’ve helped 
 - Provided HR recommendations for talent retention  
 - Built 12+ SQL queries answering complex HR questions  
 
-📁 **Repository:** Coming Soon  
+📁 **Repository:** [SQL-Employee-Retention-Analysis](https://github.com/AliaghaGladys/SQL-Employee-Retention-Analysis)  
 🛠 **Skills:** SQL analytics, HR metrics, data insights  
 
 ---
@@ -128,10 +128,10 @@ With hands-on experience in **Power BI, Tableau, SQL,and Excel**, I’ve helped 
 
 ---
 
-# 🌟 About Me  
+#  About Me  
 I’m known for being a **fast learner**, a **critical thinker**, and a **natural collaborator** who thrives in environments that value curiosity, innovation, and measurable impact.
 
-I love transforming complex datasets into stories that drive results whether for management, customers, or cross-functional teams.
+I love transforming complex datasets into stories that drive results — whether for management, customers, or cross-functional teams.
 
 ---
 
