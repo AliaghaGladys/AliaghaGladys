@@ -23,7 +23,7 @@ With hands-on experience in **Power BI, Tableau, SQL, and Excel**, I’ve helped
 - Built customer segmentation for high/medium/low-value groups  
 - Provided insights for increasing sales efficiency and customer retention  
 
-📁 **Repository:** [NovaMed-Sales-Customer-Analysis](https://github.com/AliaghaGladys/NovaMed-Sales-Customer-Analysis)  
+📁 **Repository:** [NovaMed-Sales-Customer-Analysis](https://github.com/AliaghaGladys/NovaMed-Sales-Customer-Analysis)
 🛠 **Skills:** Data modelling, DAX measures, visualization, KPI design  
 
 ---
