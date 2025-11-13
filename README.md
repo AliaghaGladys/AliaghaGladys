@@ -57,7 +57,7 @@ With hands-on experience in **Power BI, Tableau, SQL,and Excel**, I’ve helped 
 
 ---
 
-## 🧠 4. Employee Retention & Salary Analysis (SQL Project)  
+##  4. Employee Retention & Salary Analysis (SQL Project)  
 **Tools:** MySQL, Joins, Window Functions, CTEs  
 **Objective:** Identify patterns in employee retention, performance, and salary distribution.
 
