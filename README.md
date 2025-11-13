@@ -1,15 +1,15 @@
-# 👋 Hi, I'm Gladys Aliagha  
+# Hi, I'm Gladys Aliagha  
 
-### 💡 Data Analyst | Business Intelligence Specialist | Power BI • Tableau • SQL • Python  
+### 💡 Data Analyst | Business Intelligence Specialist | Power BI • Tableau • SQL . Data Cleaning 
 
 I’m a curious, analytical, and results-driven Data Analyst with a passion for uncovering the stories behind data.  
 I translate raw datasets into clear insight, predictive trends, and interactive dashboards that empower leaders to make smarter, faster decisions.
 
-With hands-on experience in **Power BI, Tableau, SQL, Python, and Excel**, I’ve helped organizations optimize performance, improve customer experience, and adopt data-driven strategies.
+With hands-on experience in **Power BI, Tableau, SQL,and Excel**, I’ve helped organizations optimize performance, improve customer experience, and adopt data-driven strategies.
 
 ---
 
-# 🚀 Featured Data Analytics Projects  
+# Featured Data Analytics Projects  
 
 ## 📊 1. NovaMed Solutions – Sales & Customer Analysis (Power BI Capstone)
 **Tools:** Power BI, Power Query, DAX, Excel  
@@ -95,7 +95,7 @@ With hands-on experience in **Power BI, Tableau, SQL, Python, and Excel**, I’v
 # 🔥 My Professional Experience  
 
 ## 🟣 **Data Analyst — 10Alytics (Remote, Canada)**  
-**Mar 2025 – Present**
+**Mar 2025 – August 2025**
 
 - Lead development of interactive dashboards using **Power BI & Tableau**  
 - Transform raw datasets into clear, actionable business insights  
@@ -107,7 +107,7 @@ With hands-on experience in **Power BI, Tableau, SQL, Python, and Excel**, I’v
 ---
 
 ## 🟡 **Data Analyst — AMDARI (Remote, UK)**  
-**Nov 2024 – Feb 2025**
+**Nov 2024 – Present**
 
 - Cleaned and prepared large customer experience datasets  
 - Conducted EDA using SQL, Power BI, and Excel  
@@ -131,7 +131,7 @@ With hands-on experience in **Power BI, Tableau, SQL, Python, and Excel**, I’v
 # 🌟 About Me  
 I’m known for being a **fast learner**, a **critical thinker**, and a **natural collaborator** who thrives in environments that value curiosity, innovation, and measurable impact.
 
-I love transforming complex datasets into stories that drive results — whether for management, customers, or cross-functional teams.
+I love transforming complex datasets into stories that drive results whether for management, customers, or cross-functional teams.
 
 ---
 
@@ -143,9 +143,9 @@ I love transforming complex datasets into stories that drive results — whether
 ---
 
 # 📫 Let's Connect  
-- **LinkedIn:** www.linkedin.com/in/  
-- **Email:** yourname@email.com  
-- **GitHub:** https://github.com/your-username  
+- **LinkedIn:** www.linkedin.com/in/gladys-aliagha  
+- **Email:** aliaghagladys@email.com  
+- **GitHub:** https://github.com/AliaghaGladys  
 
 ---
 
